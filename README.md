@@ -157,7 +157,7 @@ This repository is part of my Data Analytics Portfolio, showcasing the Advance E
 For more content on Excel, SQL, Power BI, data analysis, and other data-related topics, make sure to follow me on linkedin:
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/riaz-ud-din-0918a3271)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/riaz-ud-din-0918a3271)
 
 
 Thank you for your support, and I look forward to connecting with you!
