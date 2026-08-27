@@ -53,7 +53,7 @@ To execute the scripts and view the dashboards, ensure you have installed:
 * **Spreadsheets:** Microsoft Excel (2019 or Microsoft 365 recommended)
 * **Database Management System:** MySQL Server 8.0+ along with MySQL Workbench or DBeaver
 * **Business Intelligence Tool:** Microsoft Power BI Desktop (Latest version)
-* **File Compression Utility:** 7-Zip, WinRAR, or standard OS zip extractor (for `Data-Analytics-Portfolio.zip` and `Power BI Practice.zip`)
+* **File Compression Utility:** 7-Zip, WinRAR, or standard OS zip extractor (for `Power BI Practice.zip`)
 
 ---
 
@@ -62,7 +62,6 @@ To execute the scripts and view the dashboards, ensure you have installed:
 Follow this sequential, module-by-module path to progress from foundational concepts to advanced end-to-end analytical projects.
 
 ---
-Extract the archive contents `Data-Analytics-Portfolio.zip` and follow the following step by step guide:
 
 ### 🟢 Phase 1: Microsoft Excel (Weeks 1 & 2)
 **Directory:** `Excel-Week_1_&_2/`
@@ -147,3 +146,18 @@ Each project folder contains its own dedicated `README.md` file with deeper docu
 * 📄 [Mentor User Performance Analysis SQL README](SQL-Week_3_&_4/Mentor%20User%20Performance%20Analysis%20-%20SQL%20Project%202/README.md)
 * 📄 [Data Jobs Dashboard 1.0 README](Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v1/README.md)
 * 📄 [Data Jobs Dashboard 2.0 README](Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v2/README.md)
+
+
+## Author - Riaz Ud Din
+
+This repository is part of my Data Analytics Portfolio, showcasing the Advance Excel, SQL, Power BI, Data Cleaning, Data Exploration, Data Analysis, and Data Visualization skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Connected
+
+For more content on Excel, SQL, Power BI, data analysis, and other data-related topics, make sure to follow me on linkedin:
+
+
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/riaz-ud-din-0918a3271)
+
+
+Thank you for your support, and I look forward to connecting with you!
