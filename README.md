@@ -140,12 +140,12 @@ Open the completed `.pbix` reports in Power BI Desktop to inspect the calculatio
 
 Each project folder contains its own dedicated `README.md` file with deeper documentation, key insights, schema details, and visualization previews:
 
-* 📄 [Customer Churn Analysis README](Excel-Week_1_&_2/Customer%20Churn%20Analysis%20Dashboard%20-%20Excel%20Project%201/README.md)
-* 📄 [Sales Data Analysis README](Excel-Week_1_&_2/Sales%20Data%20Analysis%20Dashboard%20-%20Excel%20Project%202/README.md)
-* 📄 [Retail Sales Analysis SQL README](SQL-Week_3_&_4/Retail%20Sales%20Analysis%20-%20SQL%20Project%201/README.md)
-* 📄 [Mentor User Performance Analysis SQL README](SQL-Week_3_&_4/Mentor%20User%20Performance%20Analysis%20-%20SQL%20Project%202/README.md)
-* 📄 [Data Jobs Dashboard 1.0 README](Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v1/README.md)
-* 📄 [Data Jobs Dashboard 2.0 README](Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v2/README.md)
+* 📄 [Customer Churn Analysis README](</Excel-Week_1_&_2/Customer Churn Analysis Dashboard - Excel Project 1/README.md>)
+* 📄 [Sales Data Analysis README](</Excel-Week_1_&_2/Sales Data Analysis Dashboard - Excel Project 2/README.md>)
+* 📄 [Retail Sales Analysis SQL README](</SQL-Week_3_&_4/Retail Sales Analysis - SQL Project 1/README.md>)
+* 📄 [Mentor User Performance Analysis SQL README](</SQL-Week_3_&_4/Mentor User Performance Analysis - SQL Project 2/README.md>)
+* 📄 [Data Jobs Dashboard 1.0 README](/Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v1/README.md)
+* 📄 [Data Jobs Dashboard 2.0 README](/Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v2/README.md)
 
 
 ## Author - Riaz Ud Din

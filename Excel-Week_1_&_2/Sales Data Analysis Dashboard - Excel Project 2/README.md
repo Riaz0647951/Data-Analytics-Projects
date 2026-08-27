@@ -1,6 +1,6 @@
 # Sales Data Analysis Dashboard - Excel Project 2
 
-![Sales Analysis Dashboard](/Images/1-Sales%20Data%20Analysis%20Dashboard.PNG)
+![Sales Analysis Dashboard](</Excel-Week_1_&_2/Images/1-Sales Data Analysis Dashboard.PNG>)
 
 ## Introduction
 Understanding sales performance, revenue distribution, and customer purchasing patterns is critical for business growth and operational efficiency. This project delivers an interactive **Sales Data Analysis Dashboard** built in **Microsoft Excel**, designed to aggregate raw transaction data into executive-level visual insights.
@@ -31,7 +31,7 @@ By analyzing key performance indicators (KPIs) such as total sales, profit margi
 
 ### Main Dashboard Page: Executive Sales Overview
 
-![Sales Performance Dashboard](/Images/1-Sales%20Data%20Analysis%20Dashboard.PNG)
+![Sales Performance Dashboard](</Excel-Week_1_&_2/Images/1-Sales Data Analysis Dashboard.PNG>)
 
 The main interactive dashboard serves as a centralized hub for monitoring end-to-end sales performance:
 - **KPI Summary Cards:** Highlights top-line business indicators including *Total Sales*, *Total Profit*, *Profit Margin %*, *Total Orders*, and *Average Order Value*.
@@ -70,7 +70,7 @@ This project is part of my portfolio, showcasing the Microsoft Excel skills such
 For more content on data cleaning, data analysis, data visualizations & dashboards and other data-related topics, make sure to follow me on linkedin:
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/riaz-ud-din-0918a3271)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/riaz-ud-din-0918a3271)
 
 
 Thank you for your support, and I look forward to connecting with you!

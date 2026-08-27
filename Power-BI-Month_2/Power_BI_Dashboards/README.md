@@ -7,7 +7,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/Images/Project1_Page1.PNG)
+![Data Jobs DB GIF](/Power-BI-Month_2/Power_BI_Dashboards/Images/Project1_Page1.PNG)
 
 **Key Power BI skills utilized:**
 * Dashboard Layout & Design
@@ -21,11 +21,11 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * Buttons & Bookmarks for Page Navigation
 * Drill-Through Functionality
 
-[**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[**View Full Project 1 Details (README)**](/Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v1/README.md)
 
 ## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-![Data Jobs Dashboard 2.0](/Images/Project2_Page1.PNG)
+![Data Jobs Dashboard 2.0](/Power-BI-Month_2/Power_BI_Dashboards/Images/Project2_Page1.PNG)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 * Advanced Dashboard Design (Single-Page UX & Optimization)
@@ -39,7 +39,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * Optimized Slicers & Advanced Cross-Filtering Techniques
 * Report Performance Considerations
 
-[**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+[**View Full Project 2 Details (README)**](/Power-BI-Month_2/Power_BI_Dashboards/Data_Jobs_v2/README.md)
 
 ---
 

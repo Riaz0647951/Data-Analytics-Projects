@@ -1,6 +1,6 @@
 # Databel - Customer Churn Analysis Dashboard - Excel Project 1
 
-![Databel Executive Overview](/Images/1-Customer%20Churn%20Dashboard.PNG)
+![Databel Executive Overview](</Excel-Week_1_&_2/Images/1-Customer Churn Dashboard.PNG>)
 
 ## Introduction
 Customer retention is one of the most vital metrics for telecom companies. This project explores the customer dataset of **Databel**—a telecom service provider—to analyze customer attrition, identify key churn drivers, and uncover patterns across demographic segments, contract types, international plans, and customer service interactions.
@@ -32,7 +32,7 @@ Using end-to-end data processing techniques in **Microsoft Excel**, this dashboa
 
 ### Page 1: Executive Overview & High-Level KPIs
 
-![Executive Overview Dashboard](/Images/1-Customer%20Churn%20Dashboard.PNG)
+![Executive Overview Dashboard](</Excel-Week_1_&_2/Images/1-Customer Churn Dashboard.PNG>)
 
 This main dashboard serves as the central operational overview for executive management:
 - **KPI Cards:** Displays macro-level metrics including *Total Customers*, *Total Churned Customers*, and *Overall Churn Rate %*.
@@ -41,7 +41,7 @@ This main dashboard serves as the central operational overview for executive man
 
 ### Page 2: Service & Behavioral Churn Drivers
 
-![Churn Analysis](/Images/2-Churn%20Analysis.PNG)
+![Churn Analysis](</Excel-Week_1_&_2/Images/2-Churn Analysis.PNG>)
 
 This deep-dive page breaks down operational churn triggers:
 - **Service & Consumption Metrics:** Analyzes churn relative to *Data Usage (GB Download)*, *Extra Charges*, and *Customer Service Calls*.
@@ -49,7 +49,7 @@ This deep-dive page breaks down operational churn triggers:
 
 ### Page 3: Churn Reasons & Competitor Deep Dive
 
-![Churn Reasons & Competitor Analysis](/Images/3-Churn%20Pivots.PNG)
+![Churn Reasons & Competitor Analysis](</Excel-Week_1_&_2/Images/3-Churn Pivots.PNG>)
 
 This page provides a deep-dive analysis of customer departure drivers and competitive market pressure:
 - **Granular Churn Reasons:** Visualizes every reported reason for customer loss, highlighting top drivers such as *Competitor offers (16.87%)*, *Better devices (16.54%)*, and *Support staff attitude (11.30%)*.
@@ -78,7 +78,7 @@ This project is part of my portfolio, showcasing the Microsoft Excel skills such
 For more content on data cleaning, data analysis, data visualizations and other data-related topics, make sure to follow me on linkedin:
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/riaz-ud-din-0918a3271)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/riaz-ud-din-0918a3271)
 
 
 Thank you for your support, and I look forward to connecting with you!
